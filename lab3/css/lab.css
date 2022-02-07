@@ -1,0 +1,52 @@
+h1 {
+  color: white;
+  font-size: 200%;
+  background-color: #049B81;
+  width: 500px;
+  text-indent: 10px;
+
+}
+h2 {
+  color: white;
+  font-size: 200%;
+  background-color: #049B81;
+  width: 500px;
+  text-indent: 10px;
+
+}
+h3{
+  color: white;
+  font-size: 200%;
+  background-color: #049B81;
+  width: 500px;
+  text-indent: 10px;
+
+}
+
+p {
+  font-family: "times new roman";
+  text-indent: 10px;
+  margin-left: 10px;
+  font-size: 24px;
+
+}
+
+#content {
+  background-color: #049B81;
+  width: 500px;
+  min-height: 300px;
+  border: dotted 3px #F28A0C;
+  font-size: 20px;
+
+}
+body {
+  background-color: lightblue;
+}
+.box-1 {
+  width: 80%
+  margin:auto;
+}
+
+.container {
+
+}
