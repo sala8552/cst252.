@@ -30,6 +30,13 @@ p {
 
 }
 
+
+sourcelink {
+
+  font-size: 59px;
+
+
+}
 #content {
   background-color: #049B81;
   width: 800px;
@@ -41,8 +48,8 @@ p {
 
 }
 body {
-  background-color: lightred;
-  width: 80%
+  background-color: red;
+  width: 90%
   margin:45px;
 }
 
