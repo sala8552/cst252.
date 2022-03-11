@@ -1,0 +1,41 @@
+body {
+  background-color: green;
+  width: 80%
+  margin:55px;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  text-indent: 480px;
+  border-radius: 8px;
+}
+
+
+h2 {
+  color: #F1EDBB;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 250%;
+}
+
+#content {
+  border: dotted;
+  background-color: #e5d9d99e;
+  padding: 25px;
+  border-radius: 8px;
+}
+p{
+  font-size: 25px;
+}
+
+.purple {
+  color: purple;
+  direction: rtl;
+  font-size: 250%;
+}
+
+.red {
+  color: red;
+  direction: ltr;
+  font-size: 250%;
+}
