@@ -7,13 +7,13 @@ body {
 h1 {
   color: white;
   font-size: 60px;
-  text-indent: 480px;
+  text-indent: 550px;
   border-radius: 8px;
 }
 
 
 h2 {
-  color: #F1EDBB;
+  color: white;
   text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   font-size: 250%;
 }
@@ -31,11 +31,11 @@ p{
 .purple {
   color: purple;
   direction: rtl;
-  font-size: 250%;
+  font-size: 150%;
 }
 
 .red {
   color: red;
   direction: ltr;
-  font-size: 250%;
+  font-size: 150%;
 }
