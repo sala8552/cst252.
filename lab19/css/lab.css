@@ -1,0 +1,33 @@
+body {
+  background-color: red;
+  margin: 95px;
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 300%;
+  color: black;
+
+}
+
+
+h2 {
+  color: black;
+  font-size: 150%;
+}
+
+#content {
+  border: dotted;
+  background-color: lightgreen;
+  padding: 45px;
+  border-color: blue
+
+
+}
+
+#output {
+  -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+    column-width: 200px;
+    
+}

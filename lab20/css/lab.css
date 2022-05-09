@@ -1,0 +1,26 @@
+body {
+  background-color: red;
+  margin: 75px;
+}
+
+h1 {
+  font-size: 235%;
+  color: black;
+
+}
+
+
+h2 {
+  color: black;
+  font-size: 150%;
+}
+
+#content {
+  border: solid;
+  background-color: lightgreen;
+  padding: 25px;
+}
+
+a {
+  color: black;
+}
